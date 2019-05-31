@@ -96,5 +96,5 @@ if __name__ == '__main__':
   if len(argv) == 2:
     ratio = float(argv[1])
   else:
-    ratio = 0.01
+    ratio = 0.001
   Run(ratio)
