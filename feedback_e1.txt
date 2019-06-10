@@ -1,0 +1,9 @@
+https://github.com/GabrielBianconi/pytorch-rbm/blob/master/rbm.py
+
+https://github.com/albertbup/deep-belief-network
+
+https://github.com/2015xli/DBN
+
+1 párrafo, contrase dirigidos no dirigidos
+
+Gibbs -> Gradientes entre cada una de las etapas para optimizar la likelihood ()
