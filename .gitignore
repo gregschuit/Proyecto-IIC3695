@@ -4,3 +4,4 @@
 /data*
 /downloader.log
 /.ipynb_checkpoints*
+/.idea*
