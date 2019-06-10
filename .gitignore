@@ -3,3 +3,4 @@
 /images*
 /data*
 /downloader.log
+/.ipynb_checkpoints*
