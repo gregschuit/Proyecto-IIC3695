@@ -1,9 +1,26 @@
+Mail feedback: 
+
+El proyecto está bien planteado, la problemática es de interés y los métodos propuestos son
+avanzados y totalmente vinculados al curso.
+Los métodos de estimación de estas redes son complejos y por lo mismo hay muchas
+propuestas en la literatura, podrían darle una mirada a este artículo
+https://arxiv.org/pdf/1806.07066.pdf .
+Para la primera entrega deberían a lo menos presentar un método de estimación bien
+explicado, creo que deberían poder encontrar implementaciones en github (comuníquennos
+cuando encuentren algo).
+En resumen, para la primera entrega prioricen la teoría de estas redes y adapten una
+implementación disponible. Para la segunda, podrían hacer experimentos donde comparen
+los resultados de algunas variantes básicas de esta redes (tanto variantes de estructura
+como de estimación). Comparando métricas de clasificación como tiempo de entrenamiento.
+
+Reunión:
+
 https://github.com/GabrielBianconi/pytorch-rbm/blob/master/rbm.py
 
 https://github.com/albertbup/deep-belief-network
 
 https://github.com/2015xli/DBN
 
-1 p�rrafo, contrase dirigidos no dirigidos
+1 p�rrafo, contrase dirigidos no dirigidos
 
 Gibbs -> Gradientes entre cada una de las etapas para optimizar la likelihood ()
