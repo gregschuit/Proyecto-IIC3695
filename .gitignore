@@ -1,4 +1,4 @@
-/train.csv
+/train0.csv
 /index.csv
 /images*
 /data*
@@ -9,4 +9,4 @@
 /download-images-dataset-python3-log-progressbar.py
 /bibloiografia*
 *.zip
-
+/.vscode
