@@ -10,3 +10,5 @@
 /bibloiografia*
 *.zip
 /.vscode
+/download.csv
+/train.csv

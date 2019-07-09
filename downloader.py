@@ -23,7 +23,7 @@ from sys import argv
 logging.basicConfig(filename='downloader.log', format="%(asctime)-15s %(levelname)s %(message)s",
                         datefmt="%F %T", level=logging.DEBUG)
 
-file='train' #change after with test
+file='train0' #change after with test
 if not os.path.exists('images'):
     os.mkdir('images')
 out_dir = 'images/{}'.format(file)
